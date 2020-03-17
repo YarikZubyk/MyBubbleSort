@@ -17,7 +17,3 @@ function bubbleSort($array)
     }
     print_r($array);
 }
-
-$masiv = [7, 3, 6, 2, 8, 9, 5, 10,1,4];
-
-bubbleSort($masiv);
